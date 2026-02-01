@@ -4,7 +4,11 @@ public class Linechange{
 //        System.out.print("Name=Anurag Singh");
 //THEN WILL USE ANOTHER WAY TO CHANGE THE LINE BY USING \n
 
-        System.out.print("Hello World\n");
-        System.out.print("Name=Anurag Singh");
+//        System.out.print("Hello World\n");
+//        System.out.print("Name=Anurag Singh");
+
+        //PRINTING ASTERICS BY USING MULTIPUL \n
+
+        System.out.print("*\n**\n***\n****\n");
     }
 }
